@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec.bak
+
+# Virtual environments
+venv/
+env/
+.env
+lumina/
+
+# PyInstaller output
+dist/
+build/
+*.exe
+
+# Inno Setup output
+installer/Output/
+
+# App data (models + database — user-specific, never commit)
+.photo_organizer/
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+assets/
+*.ico
